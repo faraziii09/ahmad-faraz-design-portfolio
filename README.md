@@ -20,7 +20,7 @@ Publish this repository from **Settings → Pages → Deploy from a branch → m
 
 - Intro, portrait, and project links were adapted from Ahmad's existing public portfolio and GitHub profile.
 - The project thumbnails are illustrative previews created for this portfolio; the linked sites and repository show the actual work.
-- The three visual study posters and two square social artwork pieces are new concepts created for this portfolio. They are SVGs and can be imported into Canva if an editable Canva copy is wanted.
+- The three visual study posters and two square social artwork pieces are new concepts created for this portfolio. They are SVG files; they were not saved in Ahmad's Canva account.
 - Add any approved Canva exports to `assets/`, then create corresponding entries in the `#visuals` section of `index.html`.
 
 No credentials are stored in this repository.
